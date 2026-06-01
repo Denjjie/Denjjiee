@@ -2,6 +2,9 @@
 
 I'm an Information Technology student at **Davao del Norte State College**, Institute of Computing. I enjoy building practical systems that solve real-world problems — from civic tech to smart agriculture.
 
+
+My Portfolio: https://maningomika2-create.github.io/mikay.github.io/
+
 ---
 
 ##  Projects
